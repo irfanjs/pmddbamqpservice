@@ -29,6 +29,10 @@ public class PmdData implements CIData {
 		
 	}
 	
+	public PmdData() {
+		
+	}
+	
 	public void setProjectid(int projectid) {
 		// TODO Auto-generated method stub
 		pm.setProjectid(projectid);
